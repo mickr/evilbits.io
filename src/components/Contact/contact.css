@@ -1,0 +1,10 @@
+.contact-icon {
+    color: rgba(95, 75, 139, .4);
+    margin-right: 1rem;
+    transition: color 250ms;
+}
+
+.contact-icon:hover {
+    color: rgba(95, 75, 139, 1);
+    transition: color 250ms;
+}
