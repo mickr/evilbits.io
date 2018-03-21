@@ -7,6 +7,6 @@ Evilbits.io is built on [Gatsby](https://gatsbyjs.org)
 `npm install`
 `gatsby develop`
 
-###Build
+### Build
 `gatsby build`
 
