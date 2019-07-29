@@ -7,7 +7,7 @@ import Connect from '../components/Contact/contact';
 
 const IndexPage = ({ data }) => {
   const { allMarkdownRemark: { edges: jobs } } = data;
-  console.log(jobs);
+
   return (
     <div>
       <Main />

@@ -18,12 +18,7 @@ class MyStack extends Component {
               <h3>Javascript</h3>
               <p>
                 I've worked with Javascript in many capacities, from Node back ends to custom built
-                javascript frameworks. I primarily use ES6 but fluent with ES5 as well. I choose to use Javascript due to it's versatility of being able
-                to run just about anywhere.
-                I am versed in many libraries such as <a href="https://jquery.org">JQuery</a>, <a href="https://d3js.org/">D3</a>, <a
-                href="https://facebook.github.io/immutable-js/">Immutable</a>. I also versed with Webpack, Gulp, NPM and various
-                 other tools in the Javascript toolchain. I am also an experienced Node JS developer.
-                I have built and worked on various CLI tools and building API's with Express and Hapi JS.
+                javascript frameworks. I primarily use ES6 but fluent with ES5 as well.
               </p>
             </article>
             <article className="grid-cell">
@@ -32,10 +27,7 @@ class MyStack extends Component {
               <p>
                 When developing large scale applications, it can be a great idea to use a framework.
                 I am an experienced <a target="_blank" href="https://reactjs.org">React</a> developer, building small to large
-                scale applications. I also have used many other frameworks such as <a target="_blank" href="https://meteor.com">Meteor</a>, <a target="_blank" href="https://vuejs.org">Vue JS</a>,
-                and <a target="_blank" href="https://angular.io">Angular JS</a>. I think frameworks are great, but they're not always
-                a good choice. When sizing up a project, make sure to do due diligence when selecting a framework, you may find
-                you don't even need one!
+                scale applications.
               </p>
             </article>
             <article className="grid-cell">
@@ -44,10 +36,6 @@ class MyStack extends Component {
               <p>
                 Applications are fun to build, but making them beautiful is just as important.
                 I ❤️ building beautiful things and I primarily use CSS to accomplish that.
-                When starting a project I also look at what I am trying to accomplish with styles and find tools to fit that goal.
-                I have used CSS, CSS Modules, SCSS (Sass), CSSinJS, and many style frameworks as well. I try to follow
-                <a href="http://getbem.com/">BEM</a> conventions when working with non scoped
-                CSS.
               </p>
             </article>
             <article className="grid-cell">
@@ -55,9 +43,6 @@ class MyStack extends Component {
               <h3>Mobile</h3>
               <p>
                 React Native is my choice for mobile development. It is a testament to the versatility of Javascript.
-                I have built a few applications with React Native, ranging from an app to track sales ranks on Amazon to
-                multiple sophisticated location based applications built on Google Maps. I am familiar with iTunes connect and
-                test flight to allow beta testing.
               </p>
             </article>
           </div>
