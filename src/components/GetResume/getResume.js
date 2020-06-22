@@ -32,7 +32,7 @@ export default function GetResume(props) {
         </ul>
         <div className="grid large-grid--1of2">
           <div className="grid-cell">
-            <a target="_blank" download href="https://drive.google.com/uc?export=download&id=1zqgaEUBWKZWeYz7RORYN40J5YAVw9cMG"
+            <a target="_blank" rel="noreferrer" download href="https://drive.google.com/uc?export=download&id=1zqgaEUBWKZWeYz7RORYN40J5YAVw9cMG"
                className="button button--primary">
               <FontAwesome style={{ marginRight: 10 }} icon={faFilePdf} size="lg" /> Get my resume
             </a>

@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: 'Evilbits.io - Home of Mick Ryan',
+    title: 'Home of Mick Ryan',
   },
   plugins: [
     'gatsby-plugin-react-helmet',

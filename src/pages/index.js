@@ -1,4 +1,5 @@
 import GetResume from '../components/GetResume/getResume';
+import { graphql } from 'gatsby';
 import Main from '../components/Main/main';
 import MyStack from '../components/MyStack/MyStack';
 import React from 'react'
@@ -22,7 +23,7 @@ const IndexPage = ({ data }) => {
       </section>
       <footer className="footer">
         <Connect />
-        <a href="mailto:mick@evilbits.io">mick at evilbits.io</a> - All Rights
+        <a href="mailto:hello@mick.dev">hello at mick.dev</a> - All Rights
         Reserved {new Date().getFullYear()}
       </footer>
     </div>

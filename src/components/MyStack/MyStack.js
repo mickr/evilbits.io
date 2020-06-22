@@ -35,7 +35,7 @@ class MyStack extends Component {
               <h3>Styles</h3>
               <p>
                 Applications are fun to build, but making them beautiful is just as important.
-                I ❤️ building beautiful things and I primarily use CSS to accomplish that.
+                I <span role="img">❤️</span> building beautiful things and I primarily use CSS to accomplish that.
               </p>
             </article>
             <article className="grid-cell">
