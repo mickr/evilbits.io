@@ -11,7 +11,7 @@ export default function ExperienceItem(props) {
         <h5 className="subtext">{props.url}</h5>
         {
           typeof props.description === 'string' ?
-            <p dangerouslySetInnerHTML={{ __html: props.description }} /> :
+            <div dangerouslySetInnerHTML={{ __html: props.description }} /> :
             props.description
         }
       </div>

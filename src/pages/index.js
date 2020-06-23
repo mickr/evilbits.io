@@ -1,10 +1,10 @@
+import Connect from '../components/Contact/contact';
+import Experience from '../components/Experience/experience';
 import GetResume from '../components/GetResume/getResume';
-import { graphql } from 'gatsby';
 import Main from '../components/Main/main';
 import MyStack from '../components/MyStack/MyStack';
 import React from 'react'
-import Experience from '../components/Experience/experience';
-import Connect from '../components/Contact/contact';
+import { graphql } from 'gatsby';
 
 const IndexPage = ({ data }) => {
   const { allMarkdownRemark: { edges: jobs } } = data;
