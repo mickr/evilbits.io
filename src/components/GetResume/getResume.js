@@ -12,13 +12,7 @@ export default function GetResume(props) {
       <div className="grid-cell">
         <h1 className="banner">Let's change the world</h1>
         <p>
-          I have a desire to make the world around me a better place. I want to leave it better
-          than I found it. When approaching projects, I like to ask myself what are the benefits
-          and how can this help others. It doesn't always have to be big picture universe changing
-          ideas
-          that can change the world. Sometimes, it is enough to just change one persons world, to
-          make
-          a dent in their universe.
+          I have a desire to make the world around me a better place. I want to leave it better than I found it. When approaching projects, I like to ask myself what the benefits are and how this can help others. It doesn't always have to be big picture universe changing ideas that can change the world. Sometimes, it is enough to change one person's world to make a dent in their universe.
         </p>
         <p>
           Some of the characteristics that help me focus on that goal are listed below.
